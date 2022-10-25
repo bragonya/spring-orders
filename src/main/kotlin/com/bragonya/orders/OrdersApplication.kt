@@ -7,6 +7,5 @@ import org.springframework.boot.runApplication
 class OrdersApplication
 
 fun main(args: Array<String>) {
-	println("init app")
 	runApplication<OrdersApplication>(*args)
 }
